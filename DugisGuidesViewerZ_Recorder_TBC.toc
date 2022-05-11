@@ -1,0 +1,11 @@
+## Interface: 20504
+## Title: DugiGuidesViewer Recorder
+## Notes: Record and edit guides for use with the DugiGuidesViewer Addon
+## Version: 8.9994
+## X-Website: http://www.dugiguides.com
+## X-Email: support@dugiguides.com
+## X-Category: Quest
+## Dependencies: DugisGuideViewerZ
+## DefaultState: disabled
+
+Record.lua
