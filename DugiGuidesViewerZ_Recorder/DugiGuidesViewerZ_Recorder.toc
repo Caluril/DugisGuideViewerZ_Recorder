@@ -5,6 +5,7 @@
 ## X-Website: http://www.dugiguides.com
 ## X-Email: support@dugiguides.com
 ## X-Category: Quest
+## LoadOnDemand: 0
 ## Dependencies: DugisGuideViewerZ
 ## DefaultState: disabled
 
