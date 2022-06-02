@@ -1,4 +1,4 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: DugiGuidesViewer Recorder
 ## Notes: Record and edit guides for use with the DugiGuidesViewer Addon
 ## Version: 8.9994
