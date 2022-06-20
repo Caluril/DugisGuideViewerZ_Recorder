@@ -1,7 +1,7 @@
 ## Interface: 11403
 ## Title: DugiGuidesViewer |cff1784d1Recorder|r
 ## Notes: Record quests in-game for use with the Dugi Guides.
-## Version: 8.9994
+## Version: 8.9996
 ## X-Website: http://www.dugiguides.com
 ## X-Email: support@dugiguides.com
 ## X-Category: Quest
