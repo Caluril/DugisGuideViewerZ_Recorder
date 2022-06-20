@@ -1,11 +1,11 @@
 ## Interface: 90205
-## Title: DugiGuidesViewer Recorder
-## Notes: Record and edit guides for use with the DugiGuidesViewer Addon
-## Version: 8.9994
+## Title: DugiGuidesViewer |cff1784d1Recorder|r
+## Notes: Record quests in-game for use with the Dugi Guides.
+## Version: 8.9996
 ## X-Website: http://www.dugiguides.com
 ## X-Email: support@dugiguides.com
 ## X-Category: Quest
-## Dependencies: DugisGuideViewerZ
+## RequiredDeps: DugisGuideViewerZ
 ## DefaultState: disabled
 
 Record.lua
