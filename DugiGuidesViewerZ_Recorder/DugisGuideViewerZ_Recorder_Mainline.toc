@@ -1,5 +1,5 @@
 ## Interface: 90205
-## Title: DugiGuidesViewer Recorder
+## Title: Dugi Guides Recorder
 ## Notes: Record and edit guides for use with the DugiGuidesViewer Addon
 ## Version: 8.9994
 ## X-Website: http://www.dugiguides.com
